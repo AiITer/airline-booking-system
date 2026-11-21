@@ -1,6 +1,6 @@
 # Airline Booking Backend
 
-A Java + Spring Boot backend project for learning production-oriented backend architecture.
+A Java Spring Boot airline booking backend project focused on system architecture, concurrency, distributed systems, and reliable transactions.
 
 ## Planned scope
 
