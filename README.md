@@ -14,3 +14,10 @@ A Java Spring Boot airline booking backend project focused on system architectur
 - Messaging and asynchronous workflows
 - Docker and observability
 - Load testing and distributed-system evolution
+
+## Tech Stack
+
+- Java 25 LTS
+- Spring Boot
+- Maven
+- PostgreSQL
